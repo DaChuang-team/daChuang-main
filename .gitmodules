@@ -1,0 +1,12 @@
+[submodule "chenzx"]
+	path = chenzx
+	url = https://github.com/DaChuang-team/chenzx.git
+[submodule "heguangzhi"]
+	path = heguangzhi
+	url = https://github.com/DaChuang-team/heguangzhi.git
+[submodule "zhaohuawen"]
+	path = zhaohuawen
+	url = https://github.com/DaChuang-team/zhaohuawen.git
+[submodule "chenyuqi"]
+	path = chenyuqi
+	url = https://github.com/DaChuang-team/chenyuqi.git
