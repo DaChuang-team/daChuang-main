@@ -1,6 +1,3 @@
-[submodule "chenzx"]
-	path = chenzx
-	url = https://github.com/DaChuang-team/chenzx.git
 [submodule "heguangzhi"]
 	path = heguangzhi
 	url = https://github.com/DaChuang-team/heguangzhi.git
